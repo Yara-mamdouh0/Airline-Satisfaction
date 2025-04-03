@@ -1,1 +1,1 @@
-# Airline-Satisfaction
+This project focuses on analyzing airline passenger satisfaction using machine learning techniques. The goal is to understand key factors influencing passenger satisfaction and develop predictive models to classify satisfaction levels accurately.
